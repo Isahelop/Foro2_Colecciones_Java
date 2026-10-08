@@ -129,3 +129,6 @@ Espacio: O(n) en todos los casos.
 5. **Modificar el Set mientras se itera**: lanza `ConcurrentModificationException`; usa `Iterator.remove()` o `removeIf()`.
 6. **Asumir orden en `HashSet`**: el orden puede cambiar entre ejecuciones o versiones.
 7. **Pasar elementos repetidos a `Set.of(...)`**: lanza `IllegalArgumentException`.
+
+## Enlace de la presentacion
+https://canva.link/d1jxyopyk1yjexo
